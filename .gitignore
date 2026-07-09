@@ -27,11 +27,13 @@ Thumbs.db
 # Uploads
 # -----------------------------
 backend/uploads/
+!backend/uploads/.gitkeep
 
 # -----------------------------
 # Vector Database
 # -----------------------------
 backend/vector_db/
+!backend/vector_db/.gitkeep
 
 # -----------------------------
 # Logs
